@@ -19,5 +19,5 @@ numRows = int(input())
 # Call the function with user input
 result = generate_pascals_triangle(numRows)
 
-# Display the result
+
 print(result)
