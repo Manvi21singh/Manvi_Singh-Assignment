@@ -48,5 +48,4 @@ nums = list(map(int, user_input.split(',')))
 # Call the majority_elements function and store the result
 result = majority_elements(nums)
 
-# Print the final result
 print(result)
