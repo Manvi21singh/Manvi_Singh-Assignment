@@ -33,5 +33,5 @@ nums = [int(num) if num.lower() != 'null' else None for num in nums_input.split(
 # Convert the sorted array to a balanced BST
 result = sortedArrayToBST(nums)
 
-# Print the result
+
 print("[",printTree(result),"]")
