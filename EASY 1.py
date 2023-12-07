@@ -17,5 +17,4 @@ user_input = input()
 # Call the function with user input
 result = length_of_last_word(user_input)
 
-# Print the result
 print(result)
