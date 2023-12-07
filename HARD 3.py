@@ -19,6 +19,5 @@ def count_digit_one(n):
 # Take input from the user for the integer n
 user_input = int(input())
 
-# Call the function with user input
 result = count_digit_one(user_input)
 print(result)
