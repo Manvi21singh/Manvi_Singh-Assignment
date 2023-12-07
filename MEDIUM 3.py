@@ -29,7 +29,6 @@ if __name__ == "__main__":
     # Create an instance of the Solution class
     solution = Solution()
 
-    # Given input matrix
     input_matrix = [
         ["1", "0", "1", "0", "0"],
         ["1", "0", "1", "1", "1"],
