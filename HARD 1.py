@@ -32,5 +32,4 @@ k = int(input())
 # Call the function with user input
 result = maxSlidingWindow(nums, k)
 
-# Display the result
 print(result)
