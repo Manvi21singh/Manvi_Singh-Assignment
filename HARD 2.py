@@ -13,7 +13,6 @@ def shortestPalindrome(s):
     # Add the reverse of the remaining prefix to the original string
     return s[i:][::-1] + s
 
-# Take input from the user for the string
 user_input = input()
 result = shortestPalindrome(user_input)
 print(result)
