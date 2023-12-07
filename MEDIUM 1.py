@@ -56,6 +56,5 @@ root = buildBST(bst_values)
 p_node = TreeNode(p_value)
 q_node = TreeNode(q_value)
 
-# Find the lowest common ancestor
 result = lowestCommonAncestor(root, p_node, q_node)
 print(result.val if result else None)
